@@ -1,6 +1,17 @@
-# CS426: MightyCoders Assignment 2
+# CS426: Assignment 4
 
-Group Members: Al Kaleshi (Group Representative), Keegan miller, and Orlando Ortiz
+Group Members: Al Kaleshi
+
+Additions to Assignment 4:
+
+    Physics Constructs: Implemented Bhopping feature inspired by CSGO mechanics, ensuring the character is always jumping.
+    Added a feature for the player to bounce off walls.
+    Implemented a particle system on bullets when shooting the cannon.
+    Billboards with Textures:
+
+    Billboard: Added two textures with another billboard.
+    
+    Lights: Added three additional lights to the starting room.
 
 Brief Descrioption of Formal Elements:
     Players: Cooperative, Two Players, cat prefabs applied to them with roles of shooting hardware components.
